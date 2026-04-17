@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I am a Software Developer dedicated to building practical, real-world solutions for web and mobile platformS that solve meaningful problems. With a strong foundation in frontend development, I am currently expanding my expertise into backend systems to build comprehensive, scalable solutions.**
+I am a Software Developer dedicated to building practical, real-world solutions for web and mobile platformS that solve meaningful problems. With a strong foundation in frontend development, I am currently expanding my expertise into backend systems to build comprehensive, scalable solutions.
 ---
 
 ## ⚡ Fun Facts
